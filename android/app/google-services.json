@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "874508191972",
+    "project_id": "tch-fvr-v1",
+    "storage_bucket": "tch-fvr-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874508191972:android:9943df53aaa9b30d2104f1",
+        "android_client_info": {
+          "package_name": "com.cityhomeschooler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874508191972-ngculmeilc5cfd2at97cobelmdqk6pki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvHrNY97feVsDO4gBj3kst0kVLYzF8joc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874508191972-ngculmeilc5cfd2at97cobelmdqk6pki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

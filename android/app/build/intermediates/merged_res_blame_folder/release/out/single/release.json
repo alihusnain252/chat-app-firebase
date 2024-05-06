@@ -1,0 +1,254 @@
+[
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/mipmap-mdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "com.cityhomeschooler.app-main-39:/mipmap-mdpi/ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/mipmap-xxhdpi_ic_launcher_round_adaptive_fore.png.flat",
+        "source": "com.cityhomeschooler.app-main-39:/mipmap-xxhdpi/ic_launcher_round_adaptive_fore.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.cityhomeschooler.app-main-39:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.cityhomeschooler.app-main-39:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/mipmap-xxhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "com.cityhomeschooler.app-main-39:/mipmap-xxhdpi/ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.cityhomeschooler.app-react-33:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/mipmap-hdpi_ic_launcher_round_adaptive_fore.png.flat",
+        "source": "com.cityhomeschooler.app-main-39:/mipmap-hdpi/ic_launcher_round_adaptive_fore.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/mipmap-xhdpi_ic_launcher_round_adaptive_fore.png.flat",
+        "source": "com.cityhomeschooler.app-main-39:/mipmap-xhdpi/ic_launcher_round_adaptive_fore.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.cityhomeschooler.app-main-39:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/drawable-mdpi_src_assets_icons_camera.png.flat",
+        "source": "com.cityhomeschooler.app-react-33:/drawable-mdpi/src_assets_icons_camera.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/drawable-mdpi_src_assets_icons_view.png.flat",
+        "source": "com.cityhomeschooler.app-react-33:/drawable-mdpi/src_assets_icons_view.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.cityhomeschooler.app-main-39:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/mipmap-xhdpi_ic_launcher_round_adaptive_back.png.flat",
+        "source": "com.cityhomeschooler.app-main-39:/mipmap-xhdpi/ic_launcher_round_adaptive_back.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/mipmap-hdpi_ic_launcher_round_adaptive_back.png.flat",
+        "source": "com.cityhomeschooler.app-main-39:/mipmap-hdpi/ic_launcher_round_adaptive_back.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/drawable-mdpi_src_assets_icons_delete.png.flat",
+        "source": "com.cityhomeschooler.app-react-33:/drawable-mdpi/src_assets_icons_delete.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.cityhomeschooler.app-main-39:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/drawable-mdpi_src_assets_icons_twitter.png.flat",
+        "source": "com.cityhomeschooler.app-react-33:/drawable-mdpi/src_assets_icons_twitter.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/drawable-mdpi_src_assets_icons_saved.png.flat",
+        "source": "com.cityhomeschooler.app-react-33:/drawable-mdpi/src_assets_icons_saved.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/mipmap-xxhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "com.cityhomeschooler.app-main-39:/mipmap-xxhdpi/ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/drawable-mdpi_src_assets_icons_rightarrow.png.flat",
+        "source": "com.cityhomeschooler.app-react-33:/drawable-mdpi/src_assets_icons_rightarrow.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.cityhomeschooler.app-main-39:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/mipmap-xxhdpi_ic_launcher_round_adaptive_back.png.flat",
+        "source": "com.cityhomeschooler.app-main-39:/mipmap-xxhdpi/ic_launcher_round_adaptive_back.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.cityhomeschooler.app-react-33:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/drawable-mdpi_src_assets_icons_user.png.flat",
+        "source": "com.cityhomeschooler.app-react-33:/drawable-mdpi/src_assets_icons_user.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/drawable-mdpi_src_assets_icons_search.png.flat",
+        "source": "com.cityhomeschooler.app-react-33:/drawable-mdpi/src_assets_icons_search.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/mipmap-hdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "com.cityhomeschooler.app-main-39:/mipmap-hdpi/ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/drawable-mdpi_src_assets_icons_instagram.png.flat",
+        "source": "com.cityhomeschooler.app-react-33:/drawable-mdpi/src_assets_icons_instagram.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/drawable-mdpi_src_assets_icons_file.png.flat",
+        "source": "com.cityhomeschooler.app-react-33:/drawable-mdpi/src_assets_icons_file.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/drawable-mdpi_src_assets_icons_fb.png.flat",
+        "source": "com.cityhomeschooler.app-react-33:/drawable-mdpi/src_assets_icons_fb.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/drawable-mdpi_src_assets_icons_settings.png.flat",
+        "source": "com.cityhomeschooler.app-react-33:/drawable-mdpi/src_assets_icons_settings.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/drawable-mdpi_src_assets_icons_nearme.png.flat",
+        "source": "com.cityhomeschooler.app-react-33:/drawable-mdpi/src_assets_icons_nearme.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.cityhomeschooler.app-main-39:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/mipmap-xhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "com.cityhomeschooler.app-main-39:/mipmap-xhdpi/ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/drawable-mdpi_src_assets_icons_edit.png.flat",
+        "source": "com.cityhomeschooler.app-react-33:/drawable-mdpi/src_assets_icons_edit.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "com.cityhomeschooler.app-main-39:/mipmap-xxxhdpi/ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher_round_adaptive_back.png.flat",
+        "source": "com.cityhomeschooler.app-main-39:/mipmap-xxxhdpi/ic_launcher_round_adaptive_back.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "com.cityhomeschooler.app-main-39:/mipmap-xxxhdpi/ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/drawable-mdpi_src_assets_icons_bin.png.flat",
+        "source": "com.cityhomeschooler.app-react-33:/drawable-mdpi/src_assets_icons_bin.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/mipmap-xhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "com.cityhomeschooler.app-main-39:/mipmap-xhdpi/ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.cityhomeschooler.app-main-39:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/drawable-mdpi_src_assets_icons_message.png.flat",
+        "source": "com.cityhomeschooler.app-react-33:/drawable-mdpi/src_assets_icons_message.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.cityhomeschooler.app-react-33:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.cityhomeschooler.app-main-39:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.cityhomeschooler.app-react-33:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/drawable-mdpi_src_assets_icons_leftarrow.png.flat",
+        "source": "com.cityhomeschooler.app-react-33:/drawable-mdpi/src_assets_icons_leftarrow.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/drawable-mdpi_src_assets_icons_plus.png.flat",
+        "source": "com.cityhomeschooler.app-react-33:/drawable-mdpi/src_assets_icons_plus.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/mipmap-mdpi_ic_launcher_round_adaptive_back.png.flat",
+        "source": "com.cityhomeschooler.app-main-39:/mipmap-mdpi/ic_launcher_round_adaptive_back.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.cityhomeschooler.app-main-39:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/drawable-mdpi_src_assets_icons_mainicon.jpeg.flat",
+        "source": "com.cityhomeschooler.app-react-33:/drawable-mdpi/src_assets_icons_mainicon.jpeg"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/mipmap-mdpi_ic_launcher_round_adaptive_fore.png.flat",
+        "source": "com.cityhomeschooler.app-main-39:/mipmap-mdpi/ic_launcher_round_adaptive_fore.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.cityhomeschooler.app-main-39:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/mipmap-hdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "com.cityhomeschooler.app-main-39:/mipmap-hdpi/ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/drawable-mdpi_src_assets_icons_eye.png.flat",
+        "source": "com.cityhomeschooler.app-react-33:/drawable-mdpi/src_assets_icons_eye.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher_round_adaptive_fore.png.flat",
+        "source": "com.cityhomeschooler.app-main-39:/mipmap-xxxhdpi/ic_launcher_round_adaptive_fore.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/drawable-mdpi_src_assets_icons_homelogo.png.flat",
+        "source": "com.cityhomeschooler.app-react-33:/drawable-mdpi/src_assets_icons_homelogo.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/mipmap-mdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "com.cityhomeschooler.app-main-39:/mipmap-mdpi/ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.cityhomeschooler.app-main-39:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/drawable-mdpi_src_assets_icons_userdummy.jpg.flat",
+        "source": "com.cityhomeschooler.app-react-33:/drawable-mdpi/src_assets_icons_userdummy.jpg"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.cityhomeschooler.app-main-39:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/drawable-mdpi_src_assets_icons_userprofile.png.flat",
+        "source": "com.cityhomeschooler.app-react-33:/drawable-mdpi/src_assets_icons_userprofile.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.cityhomeschooler.app-react-33:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.cityhomeschooler.app-react-33:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.cityhomeschooler.app-merged_res-38:/drawable-mdpi_src_assets_icons_messagesend.png.flat",
+        "source": "com.cityhomeschooler.app-react-33:/drawable-mdpi/src_assets_icons_messagesend.png"
+    }
+]
